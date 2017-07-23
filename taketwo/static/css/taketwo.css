@@ -1,0 +1,9 @@
+/* CSS for TakeTwoXBlock */
+
+.taketwo_block .count {
+    font-weight: bold;
+}
+
+.taketwo_block p {
+    cursor: pointer;
+}
